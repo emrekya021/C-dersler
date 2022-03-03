@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Pratikler\if-else\bin\Debug\net6.0\if-else.exe
+C:\Users\pc\Desktop\Pratikler\if-else\bin\Debug\net6.0\if-else.deps.json
+C:\Users\pc\Desktop\Pratikler\if-else\bin\Debug\net6.0\if-else.runtimeconfig.json
+C:\Users\pc\Desktop\Pratikler\if-else\bin\Debug\net6.0\if-else.dll
+C:\Users\pc\Desktop\Pratikler\if-else\bin\Debug\net6.0\if-else.pdb
+C:\Users\pc\Desktop\Pratikler\if-else\obj\Debug\net6.0\if-else.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Pratikler\if-else\obj\Debug\net6.0\if-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Pratikler\if-else\obj\Debug\net6.0\if-else.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Pratikler\if-else\obj\Debug\net6.0\if-else.AssemblyInfo.cs
+C:\Users\pc\Desktop\Pratikler\if-else\obj\Debug\net6.0\if-else.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Pratikler\if-else\obj\Debug\net6.0\if-else.dll
+C:\Users\pc\Desktop\Pratikler\if-else\obj\Debug\net6.0\refint\if-else.dll
+C:\Users\pc\Desktop\Pratikler\if-else\obj\Debug\net6.0\if-else.pdb
+C:\Users\pc\Desktop\Pratikler\if-else\obj\Debug\net6.0\if-else.genruntimeconfig.cache
+C:\Users\pc\Desktop\Pratikler\if-else\obj\Debug\net6.0\ref\if-else.dll
