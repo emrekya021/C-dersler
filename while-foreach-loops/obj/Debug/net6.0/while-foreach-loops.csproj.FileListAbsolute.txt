@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Pratikler\while-foreach-loops\bin\Debug\net6.0\while-foreach-loops.exe
+C:\Users\pc\Desktop\Pratikler\while-foreach-loops\bin\Debug\net6.0\while-foreach-loops.deps.json
+C:\Users\pc\Desktop\Pratikler\while-foreach-loops\bin\Debug\net6.0\while-foreach-loops.runtimeconfig.json
+C:\Users\pc\Desktop\Pratikler\while-foreach-loops\bin\Debug\net6.0\while-foreach-loops.dll
+C:\Users\pc\Desktop\Pratikler\while-foreach-loops\bin\Debug\net6.0\while-foreach-loops.pdb
+C:\Users\pc\Desktop\Pratikler\while-foreach-loops\obj\Debug\net6.0\while-foreach-loops.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Pratikler\while-foreach-loops\obj\Debug\net6.0\while-foreach-loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Pratikler\while-foreach-loops\obj\Debug\net6.0\while-foreach-loops.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Pratikler\while-foreach-loops\obj\Debug\net6.0\while-foreach-loops.AssemblyInfo.cs
+C:\Users\pc\Desktop\Pratikler\while-foreach-loops\obj\Debug\net6.0\while-foreach-loops.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Pratikler\while-foreach-loops\obj\Debug\net6.0\while-foreach-loops.dll
+C:\Users\pc\Desktop\Pratikler\while-foreach-loops\obj\Debug\net6.0\refint\while-foreach-loops.dll
+C:\Users\pc\Desktop\Pratikler\while-foreach-loops\obj\Debug\net6.0\while-foreach-loops.pdb
+C:\Users\pc\Desktop\Pratikler\while-foreach-loops\obj\Debug\net6.0\while-foreach-loops.genruntimeconfig.cache
+C:\Users\pc\Desktop\Pratikler\while-foreach-loops\obj\Debug\net6.0\ref\while-foreach-loops.dll
