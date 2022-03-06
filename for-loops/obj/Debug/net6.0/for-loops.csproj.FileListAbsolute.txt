@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Pratikler\for-loops\bin\Debug\net6.0\for-loops.exe
+C:\Users\pc\Desktop\Pratikler\for-loops\bin\Debug\net6.0\for-loops.deps.json
+C:\Users\pc\Desktop\Pratikler\for-loops\bin\Debug\net6.0\for-loops.runtimeconfig.json
+C:\Users\pc\Desktop\Pratikler\for-loops\bin\Debug\net6.0\for-loops.dll
+C:\Users\pc\Desktop\Pratikler\for-loops\bin\Debug\net6.0\for-loops.pdb
+C:\Users\pc\Desktop\Pratikler\for-loops\obj\Debug\net6.0\for-loops.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Pratikler\for-loops\obj\Debug\net6.0\for-loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Pratikler\for-loops\obj\Debug\net6.0\for-loops.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Pratikler\for-loops\obj\Debug\net6.0\for-loops.AssemblyInfo.cs
+C:\Users\pc\Desktop\Pratikler\for-loops\obj\Debug\net6.0\for-loops.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Pratikler\for-loops\obj\Debug\net6.0\for-loops.dll
+C:\Users\pc\Desktop\Pratikler\for-loops\obj\Debug\net6.0\refint\for-loops.dll
+C:\Users\pc\Desktop\Pratikler\for-loops\obj\Debug\net6.0\for-loops.pdb
+C:\Users\pc\Desktop\Pratikler\for-loops\obj\Debug\net6.0\for-loops.genruntimeconfig.cache
+C:\Users\pc\Desktop\Pratikler\for-loops\obj\Debug\net6.0\ref\for-loops.dll
