@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Pratikler\stringmethod\bin\Debug\net6.0\stringmethod.exe
+C:\Users\pc\Desktop\Pratikler\stringmethod\bin\Debug\net6.0\stringmethod.deps.json
+C:\Users\pc\Desktop\Pratikler\stringmethod\bin\Debug\net6.0\stringmethod.runtimeconfig.json
+C:\Users\pc\Desktop\Pratikler\stringmethod\bin\Debug\net6.0\stringmethod.dll
+C:\Users\pc\Desktop\Pratikler\stringmethod\bin\Debug\net6.0\stringmethod.pdb
+C:\Users\pc\Desktop\Pratikler\stringmethod\obj\Debug\net6.0\stringmethod.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Pratikler\stringmethod\obj\Debug\net6.0\stringmethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Pratikler\stringmethod\obj\Debug\net6.0\stringmethod.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Pratikler\stringmethod\obj\Debug\net6.0\stringmethod.AssemblyInfo.cs
+C:\Users\pc\Desktop\Pratikler\stringmethod\obj\Debug\net6.0\stringmethod.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Pratikler\stringmethod\obj\Debug\net6.0\stringmethod.dll
+C:\Users\pc\Desktop\Pratikler\stringmethod\obj\Debug\net6.0\refint\stringmethod.dll
+C:\Users\pc\Desktop\Pratikler\stringmethod\obj\Debug\net6.0\stringmethod.pdb
+C:\Users\pc\Desktop\Pratikler\stringmethod\obj\Debug\net6.0\stringmethod.genruntimeconfig.cache
+C:\Users\pc\Desktop\Pratikler\stringmethod\obj\Debug\net6.0\ref\stringmethod.dll
